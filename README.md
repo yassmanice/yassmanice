@@ -67,8 +67,8 @@ Mi enfoque se caracteriza por la formación continua, la adaptabilidad y la comu
 
 <p align="center">
 <a href="https://github.com/yassmanice">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yassmanice&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yassmanice&layout=compact&langs_count=8&theme=gotham&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yassmanice&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yassmanice&layout=compact&langs_count=8&theme=gotham&hide_border=true"/>
 </a>
 </p>
 
