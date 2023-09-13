@@ -28,8 +28,8 @@ Mi enfoque se caracteriza por la formación continua, la adaptabilidad y la comu
 - 🦾 Actualmente estoy trabajando en mis proyectos paralelos
 - 🛠 Actualmente estoy aprendiendo arquitectura de software
 - ♻️ Estoy buscando colaborar en tus proyectos de código abierto
-- 🔔 Pregúntame sobre cualquier cosa aquí
-- 🌟 Dato curioso: ¡Nunca pensé convertirme en un programador Java!
+- 🔔 Pregúntame sobre Java, Spring Boot... o cualquier cosa <a href="https://github.com/yassmanice/yassmanice/issues">aquí</a>
+- 🌟 Dato curioso: Las capas de La Guardia Nocturna de Juego de Tronos están hechas con alfombras de Ikea
 <br>
 
 ## ⚙️ &nbsp;Stack tecnológico
