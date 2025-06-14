@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <samp>echo "Hey, soy Yassmani 👋"</samp>
+  <samp>System.out.println("Hey, soy Yassmani 👋");</samp>
 </h1>
 
 <p align="center">
