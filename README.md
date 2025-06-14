@@ -14,6 +14,16 @@
 
 ---
 
+## ⚙️ /bio
+
+```env
+NAME=Yassmani
+ROLE=Backend
+CAFFEINE=ON
+```
+
+---
+
 ## 🔧 /toolkit
 
 <p align="center">
@@ -69,31 +79,26 @@
 
 ---
 
-## 📫 /contact
+## 🔁 /dev-loop
 
-```bash
-📧  yassmanice@gmail.com
-📲  t.me/yassmanice
+```java
+while (coffee.isHot()) {
+    code.clean();
+    test.run();
+    if (today == "Friday") {
+        abort(deploy);
+    }
+}
 ```
 
 ---
 
-## 🌀 /debug-log
+## 📫 /contact
 
-```bash
-yassmani@devbox:~$ sudo su
-[sudo] password for yassmani: ********
-
-root@devbox:/home/yassmani# run --env dev --focus on_architecture
-✓ entorno activo
-✓ café cargado ☕
-✓ test pasados
-✓ microservicios conectados
-✗ kubernetes: aún domando el YAML
-
-root@devbox:/home/yassmani# deploy --env prod --on friday
-❌ error: los viernes no se deploya (normas de supervivencia)
-```
+<p align="center">
+  <a href="mailto:yassmanice@gmail.com">Email</a> |
+  <a href="https://t.me/yassmanice">Telegram</a>
+</p>
 
 ---
 
